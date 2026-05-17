@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.history/
+.venv/
+env
+__pycache__/
+node_modules/
+cache/document_cache/*.json
+cache/serp_cache/*.json
+.~lock*
+**/.ipynb_checkpoints/**
+**/__pycache__/**
+.gigaide/**
+.idea/**
+*.md
+*.txt
